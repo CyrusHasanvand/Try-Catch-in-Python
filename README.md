@@ -21,6 +21,6 @@ Make sure you have Python installed, then run:
 
 ```bash
 python write_candle_info.py
-
+```
 ## 🧪 Example Output (`Candle Information.txt`)
 
