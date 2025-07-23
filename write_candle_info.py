@@ -4,7 +4,7 @@ Low = 6003
 Open = 6004
 Close = 6008
 
-# Attempt to write the information into a file using try-except
+# Below, it is an attempt to write the information into a file using try-except
 while True:
     try:
         with open("Candle Information.txt", "w") as f:
