@@ -8,16 +8,7 @@ The script defines sample price data and writes it to a file called `Candle Info
 
 The `finally` block prints a message each time the process is attempted.
 
-## Key Concepts
-
-- `try-except-finally` in Python
-- Writing to a text file with `open(..., "w")`
-- Using formatted strings to display float values
-- Looping until the file is successfully written
-
 ## How to Run
-
-Make sure you have Python installed, then run:
 
 ```bash
 python write_candle_info.py
